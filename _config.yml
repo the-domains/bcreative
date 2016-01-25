@@ -1,0 +1,28 @@
+name: bCreative
+favicon: null
+layout_spectrum: 0.41628198721446097
+typography_spectrum: 0.5952866317238659
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5921964729204774
+  lightness: 0.3196928817778826
+  saturation: 0.8036627136170864
+  rhythmicContrast: 0.18379790452308953
+purpose: []
